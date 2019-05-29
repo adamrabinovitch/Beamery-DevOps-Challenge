@@ -1,6 +1,6 @@
 # Beamery-DevOps-Challenge
 
-Please, choose one of the two options to complete:
+Please, choose one of the two options to complete. Whne you are done add the code to your own github/gitlab repos for the team to review.
   
   1- Run a Mongo instance using Docker. Write a simple command line tool that will create a collection in Mongo (schema of your choice), populate it with some fake data, and create custom indexes for the collection. 
   Please, use https://github.com/globalsign/mgo library.
