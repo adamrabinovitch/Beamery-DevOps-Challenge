@@ -19,3 +19,5 @@ My Message
 ```
 
 Note: we will valorate positively and good code structure and tests.
+
+Add documentation on the README explaining how to execute your code. Include how to run Mongo or Kafka (depending on the option you choose).
