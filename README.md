@@ -1,4 +1,4 @@
-# Beamery-DevOps-Challenge
+# Beamery-DevOps-Challenge Part 2
 
 This is a coding challenge. Please, choose one of the two options to complete using Golang language. When you are done add the code to your own Github/Gitlab repos for the team to review.
 
